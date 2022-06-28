@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "3f569fec-13c0-4d69-954f-f195f2e424d6",
+		"name": "BookingApplication",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21579208"
+	},
+	"item": [
+		{
+			"name": "get-Booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get-Booking-I",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post-Booking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
